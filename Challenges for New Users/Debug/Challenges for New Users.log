@@ -1,0 +1,3 @@
+﻿  Solution.cpp
+D:\VS2017\Leetcode\Challenges for New Users\Solution.cpp(12,11): warning C4018: '<': signed/unsigned mismatch
+  Challenges for New Users.vcxproj -> D:\VS2017\Leetcode\Challenges for New Users\Debug\Challenges for New Users.exe
